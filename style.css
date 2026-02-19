@@ -1,10 +1,11 @@
+/* banner style */
 .banner{
     background-image: url(images/Banner\ Image.png);
     width: 1300px;
     height: 600px;
     color: #FFFFFF;
     position:relative ;
-
+    
 }
 
 .text{
@@ -13,8 +14,44 @@
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    
-    
-    
+  }
 
+  /* new year photo style */
+   .new-year-photo{
+   width: 100%;
+   text-align: center;
+    width: 803px;
+    height: 800px;
+    }
+    .off{
+    color: #FF0000;
+   font-size: 55px;
 }
+.our{
+   color:#FF0000 ;
+   font-size: 14px;
+   }
+
+.all{
+   color:#070211 ;
+   font-size: 55px;
+}
+
+.photo img{
+    width: 100%;
+    display: block;
+    margin-top: 20px;
+}
+
+
+/* wellcome */
+.welcome{
+    background-image: url(images/Vectorrr.png);
+    width: 1300px;
+    height: 600px;
+}
+
+
+
+
+
